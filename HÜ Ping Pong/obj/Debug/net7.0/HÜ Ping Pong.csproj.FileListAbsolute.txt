@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\bin\Debug\net7.0\HÜ Ping Pong.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\bin\Debug\net7.0\HÜ Ping Pong.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\bin\Debug\net7.0\HÜ Ping Pong.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\bin\Debug\net7.0\HÜ Ping Pong.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\bin\Debug\net7.0\HÜ Ping Pong.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\HÜ Ping Pong.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\HÜ Ping Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\HÜ Ping Pong.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\HÜ Ping Pong.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\HÜ Ping Pong.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\HÜ Ping Pong.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\refint\HÜ Ping Pong.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\HÜ Ping Pong.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\HÜ Ping Pong.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\HÜ Ping Pong\obj\Debug\net7.0\ref\HÜ Ping Pong.dll
