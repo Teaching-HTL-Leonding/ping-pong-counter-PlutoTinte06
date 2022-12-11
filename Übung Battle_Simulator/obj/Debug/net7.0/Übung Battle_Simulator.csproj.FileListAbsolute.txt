@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\Übung Battle_Simulator.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\Übung Battle_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\Übung Battle_Simulator.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\Übung Battle_Simulator.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\Übung Battle_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\bin\Debug\net7.0\Übung Battle_Simulator.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\bin\Debug\net7.0\Übung Battle_Simulator.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\bin\Debug\net7.0\Übung Battle_Simulator.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\bin\Debug\net7.0\Übung Battle_Simulator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\bin\Debug\net7.0\Übung Battle_Simulator.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\Übung Battle_Simulator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\refint\Übung Battle_Simulator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\Übung Battle_Simulator.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\Übung Battle_Simulator.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Battle_Simulator\obj\Debug\net7.0\ref\Übung Battle_Simulator.dll
